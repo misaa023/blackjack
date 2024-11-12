@@ -1,2 +1,2 @@
 # js-blackjack
-Así dejamos el código en la sección 6
+Juego de cartas blackjack
